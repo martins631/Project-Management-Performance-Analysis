@@ -9,6 +9,12 @@ This project focuses on analyzing and visualizing task-level performance across 
 
 The goal of this analysis is to monitor execution efficiency, track budget utilization, identify delays and bottlenecks, and support data-driven project management decisions through clear, interactive visualizations.
 
+## Dataset Used
+= <a href="[https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sale%20Performance%20and%20Customer%20Segment%20Analysis.xlsx](https://github.com/martins631/Project-Management-Performance-Analysis/blob/main/Project%20management%20Data.xlsx)">Dataset</a>
+
+## Dashboard Image
+= <a href="[https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sales%20Performance%20and%20Customer%20Segment%20Analysis%20IMG.png](https://github.com/martins631/Project-Management-Performance-Analysis/blob/main/Project%20Management%20IMG%201.png)">Dashboard</a>
+
 ## 🎯 Aim of the Project
 
 To analyze and visualize project execution performance across multiple projects in order to evaluate task progress, time management, managerial efficiency, and budget utilization.
@@ -66,6 +72,9 @@ Converted progress values to percentages
 Validated budget vs actual cost values
 
 Ensured correct aggregation across projects and managers
+
+## Dataset Used
+= <a href="[https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sale%20Performance%20and%20Customer%20Segment%20Analysis.xlsx](https://github.com/martins631/Project-Management-Performance-Analysis/blob/main/Project%20management%20Data.xlsx)">Dataset</a>
 
 ## 🛠 Tools & Techniques Used
 ### 🔧 Tools
@@ -131,6 +140,12 @@ Some projects show high budget consumption with low progress
 
 Manager workload distribution is uneven across projects
 
+## Dashboard Image
+= <a href="[https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sales%20Performance%20and%20Customer%20Segment%20Analysis%20IMG.png](https://github.com/martins631/Project-Management-Performance-Analysis/blob/main/Project%20Management%20IMG%201.png)">Dashboard</a>
+
+<img width="648" height="667" alt="Project Management IMG 1" src="https://github.com/user-attachments/assets/eec66208-3cc8-44b6-89b7-2e03f71b0e24" />
+
+
 ## 🚧 Challenges Identified
 
 Delays in task execution across multiple projects
@@ -174,3 +189,9 @@ Real-world enterprise reporting
 Oluwole Damilola [Martins]
 
 Data Analyst | Data Visualization | Business Intelligence
+
+## Dataset Used
+= <a href="[https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sale%20Performance%20and%20Customer%20Segment%20Analysis.xlsx](https://github.com/martins631/Project-Management-Performance-Analysis/blob/main/Project%20management%20Data.xlsx)">Dataset</a>
+
+## Dashboard Image
+= <a href="[https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sales%20Performance%20and%20Customer%20Segment%20Analysis%20IMG.png](https://github.com/martins631/Project-Management-Performance-Analysis/blob/main/Project%20Management%20IMG%201.png)">Dashboard</a>
